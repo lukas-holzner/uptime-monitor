@@ -4,19 +4,19 @@
     "url": "https://interhyp.de",
     "icon": "https://icons.duckduckgo.com/ip3/interhyp.de.ico",
     "slug": "interhyp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2033,
-    "timeDay": 2010,
-    "timeWeek": 2033,
-    "timeMonth": 2033,
-    "timeYear": 2033,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 2001,
+    "timeDay": 1876,
+    "timeWeek": 2001,
+    "timeMonth": 2001,
+    "timeYear": 2001,
     "dailyMinutesDown": {
-      "2025-01-19": 0
+      "2025-01-19": 20
     }
   },
   {
