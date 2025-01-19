@@ -24,19 +24,19 @@
     "url": "https://wiki.fablab-muenchen.de",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.fablab-muenchen.de.ico",
     "slug": "fab-lab-muenchen-wiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2886,
-    "timeDay": 1315,
-    "timeWeek": 2886,
-    "timeMonth": 2886,
-    "timeYear": 2886,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 4455,
+    "timeDay": 9162,
+    "timeWeek": 4455,
+    "timeMonth": 4455,
+    "timeYear": 4455,
     "dailyMinutesDown": {
-      "2025-01-19": 0
+      "2025-01-19": 22
     }
   },
   {
