@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/interhyp.de.ico",
     "slug": "interhyp",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 1977,
     "timeDay": 2003,
     "timeWeek": 1977,
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.fablab-muenchen.de.ico",
     "slug": "fab-lab-muenchen-wiki",
     "status": "up",
-    "uptime": "99.32%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.32%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 4702,
     "timeDay": 1403,
     "timeWeek": 4702,
@@ -80,7 +80,7 @@
     "url": "$NEXTCLOUD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -91,6 +91,8 @@
     "timeWeek": 1130,
     "timeMonth": 1130,
     "timeYear": 1130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-21": 0
+    }
   }
 ]
