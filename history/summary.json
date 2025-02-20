@@ -8,13 +8,13 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1959,
-    "timeDay": 2758,
-    "timeWeek": 2126,
-    "timeMonth": 1941,
-    "timeYear": 1959,
+    "time": 1973,
+    "timeDay": 2514,
+    "timeWeek": 2146,
+    "timeMonth": 1973,
+    "timeYear": 1973,
     "dailyMinutesDown": {
       "2025-01-19": 20
     }
@@ -28,13 +28,13 @@
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 2372,
-    "timeDay": 1870,
-    "timeWeek": 1581,
-    "timeMonth": 2252,
-    "timeYear": 2372,
+    "time": 2358,
+    "timeDay": 1757,
+    "timeWeek": 1586,
+    "timeMonth": 1449,
+    "timeYear": 2358,
     "dailyMinutesDown": {
       "2025-01-19": 61
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 964,
-    "timeDay": 1299,
-    "timeWeek": 1079,
-    "timeMonth": 983,
-    "timeYear": 964,
+    "time": 972,
+    "timeDay": 1271,
+    "timeWeek": 1073,
+    "timeMonth": 1000,
+    "timeYear": 972,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 736,
-    "timeDay": 1034,
-    "timeWeek": 825,
-    "timeMonth": 740,
-    "timeYear": 736,
+    "time": 742,
+    "timeDay": 970,
+    "timeWeek": 827,
+    "timeMonth": 751,
+    "timeYear": 742,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 1550,
-    "timeDay": 3340,
-    "timeWeek": 1584,
-    "timeMonth": 1666,
-    "timeYear": 1550,
+    "time": 1578,
+    "timeDay": 2701,
+    "timeWeek": 1787,
+    "timeMonth": 1718,
+    "timeYear": 1578,
     "dailyMinutesDown": {
       "2025-01-21": 22
     }
