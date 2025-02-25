@@ -9,10 +9,18 @@ sites:
     url: https://wiki.fablab-muenchen.de
   - name: Wiki
     url: $WIKI_URL
+    icon: https://js.wiki/favicons/favicon-32x32.png
   - name: Gitea
     url: $GITEA_URL
+    icon: https://about.gitea.com/gitea.svg
   - name: Nextcloud
     url: $NEXTCLOUD_URL
+    icon: https://nextcloud.com/c/uploads/2022/03/favicon.png
+  - name: FritzBox München
+    url: $FRITZ_MUC_URL
+    icon: https://sso.myfritz.net/static/images/icons/favicon.svg
+  - name: FritzBox Gilching
+    url: $FRITZ_GIL_URL
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
