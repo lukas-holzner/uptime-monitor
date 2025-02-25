@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2000,
-    "timeDay": 1743,
-    "timeWeek": 2341,
-    "timeMonth": 2008,
-    "timeYear": 2000,
+    "time": 1990,
+    "timeDay": 1641,
+    "timeWeek": 2241,
+    "timeMonth": 1994,
+    "timeYear": 1990,
     "dailyMinutesDown": {
       "2025-01-19": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 2294,
-    "timeDay": 1455,
-    "timeWeek": 1762,
-    "timeMonth": 1487,
-    "timeYear": 2294,
+    "time": 2273,
+    "timeDay": 1368,
+    "timeWeek": 1702,
+    "timeMonth": 1480,
+    "timeYear": 2273,
     "dailyMinutesDown": {
       "2025-01-19": 61
     }
@@ -42,7 +42,7 @@
   {
     "name": "Wiki",
     "url": "$WIKI_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "icon": "https://js.wiki/favicons/favicon-32x32.png",
     "slug": "wiki",
     "status": "up",
     "uptime": "100.00%",
@@ -50,17 +50,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1013,
-    "timeDay": 936,
-    "timeWeek": 1328,
-    "timeMonth": 1070,
-    "timeYear": 1013,
+    "time": 1009,
+    "timeDay": 877,
+    "timeWeek": 1264,
+    "timeMonth": 1062,
+    "timeYear": 1009,
     "dailyMinutesDown": {}
   },
   {
     "name": "Gitea",
     "url": "$GITEA_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "icon": "https://about.gitea.com/gitea.svg",
     "slug": "gitea",
     "status": "up",
     "uptime": "100.00%",
@@ -68,17 +68,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 762,
-    "timeDay": 733,
-    "timeWeek": 949,
-    "timeMonth": 785,
-    "timeYear": 762,
+    "time": 759,
+    "timeDay": 675,
+    "timeWeek": 907,
+    "timeMonth": 780,
+    "timeYear": 759,
     "dailyMinutesDown": {}
   },
   {
     "name": "Nextcloud",
     "url": "$NEXTCLOUD_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "icon": "https://nextcloud.com/c/uploads/2022/03/favicon.png",
     "slug": "nextcloud",
     "status": "up",
     "uptime": "99.96%",
@@ -86,13 +86,53 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1599,
+    "time": 1586,
     "timeDay": 964,
-    "timeWeek": 2132,
-    "timeMonth": 1440,
-    "timeYear": 1599,
+    "timeWeek": 1986,
+    "timeMonth": 1425,
+    "timeYear": 1586,
     "dailyMinutesDown": {
       "2025-01-21": 22
+    }
+  },
+  {
+    "name": "FritzBox München",
+    "url": "$FRITZ_MUC_URL",
+    "icon": "https://sso.myfritz.net/static/images/icons/favicon.svg",
+    "slug": "fritz-box-muenchen",
+    "status": "down",
+    "uptime": "30.30%",
+    "uptimeDay": "30.30%",
+    "uptimeWeek": "30.30%",
+    "uptimeMonth": "30.30%",
+    "uptimeYear": "30.30%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-02-25": 0
+    }
+  },
+  {
+    "name": "FritzBox Gilching",
+    "url": "$FRITZ_GIL_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "fritz-box-gilching",
+    "status": "down",
+    "uptime": "55.14%",
+    "uptimeDay": "55.14%",
+    "uptimeWeek": "55.14%",
+    "uptimeMonth": "55.14%",
+    "uptimeYear": "55.14%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-02-25": 0
     }
   }
 ]
