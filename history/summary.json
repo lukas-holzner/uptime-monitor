@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1990,
-    "timeDay": 1641,
-    "timeWeek": 2241,
-    "timeMonth": 1994,
-    "timeYear": 1990,
+    "time": 2003,
+    "timeDay": 2069,
+    "timeWeek": 2221,
+    "timeMonth": 2021,
+    "timeYear": 2003,
     "dailyMinutesDown": {
       "2025-01-19": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 2273,
-    "timeDay": 1368,
-    "timeWeek": 1702,
-    "timeMonth": 1480,
-    "timeYear": 2273,
+    "time": 2265,
+    "timeDay": 1562,
+    "timeWeek": 1698,
+    "timeMonth": 1500,
+    "timeYear": 2265,
     "dailyMinutesDown": {
       "2025-01-19": 61
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1009,
-    "timeDay": 877,
-    "timeWeek": 1264,
-    "timeMonth": 1062,
-    "timeYear": 1009,
+    "time": 1013,
+    "timeDay": 1014,
+    "timeWeek": 1253,
+    "timeMonth": 1076,
+    "timeYear": 1013,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 675,
-    "timeWeek": 907,
-    "timeMonth": 780,
-    "timeYear": 759,
+    "time": 762,
+    "timeDay": 740,
+    "timeWeek": 886,
+    "timeMonth": 787,
+    "timeYear": 762,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1586,
-    "timeDay": 964,
-    "timeWeek": 1986,
-    "timeMonth": 1425,
-    "timeYear": 1586,
+    "time": 1594,
+    "timeDay": 1476,
+    "timeWeek": 1817,
+    "timeMonth": 1450,
+    "timeYear": 1594,
     "dailyMinutesDown": {
       "2025-01-21": 22
     }
@@ -101,18 +101,19 @@
     "icon": "https://sso.myfritz.net/static/images/icons/favicon.svg",
     "slug": "fritz-box-muenchen",
     "status": "down",
-    "uptime": "18.87%",
-    "uptimeDay": "18.87%",
-    "uptimeWeek": "18.87%",
-    "uptimeMonth": "18.87%",
-    "uptimeYear": "18.87%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-25": 0
+      "2025-02-26": 75,
+      "2025-02-25": 920
     }
   },
   {
@@ -121,18 +122,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fritz-box-gilching",
     "status": "down",
-    "uptime": "19.89%",
-    "uptimeDay": "19.89%",
-    "uptimeWeek": "19.89%",
-    "uptimeMonth": "19.89%",
-    "uptimeYear": "19.89%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-25": 0
+      "2025-02-26": 75,
+      "2025-02-25": 920
     }
   }
 ]
