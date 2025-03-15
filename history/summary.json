@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2023,
-    "timeDay": 1564,
-    "timeWeek": 1883,
-    "timeMonth": 2120,
-    "timeYear": 2023,
+    "time": 2017,
+    "timeDay": 1607,
+    "timeWeek": 1881,
+    "timeMonth": 2111,
+    "timeYear": 2017,
     "dailyMinutesDown": {
       "2025-01-19": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 2089,
-    "timeDay": 1462,
-    "timeWeek": 1471,
-    "timeMonth": 1587,
-    "timeYear": 2089,
+    "time": 2076,
+    "timeDay": 1230,
+    "timeWeek": 1443,
+    "timeMonth": 1577,
+    "timeYear": 2076,
     "dailyMinutesDown": {
       "2025-01-19": 61
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1033,
-    "timeDay": 1305,
-    "timeWeek": 986,
-    "timeMonth": 1130,
-    "timeYear": 1033,
+    "time": 1030,
+    "timeDay": 831,
+    "timeWeek": 992,
+    "timeMonth": 1126,
+    "timeYear": 1030,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 772,
-    "timeDay": 712,
-    "timeWeek": 708,
-    "timeMonth": 829,
-    "timeYear": 772,
+    "time": 771,
+    "timeDay": 678,
+    "timeWeek": 719,
+    "timeMonth": 828,
+    "timeYear": 771,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1743,
-    "timeDay": 1183,
-    "timeWeek": 1555,
-    "timeMonth": 1975,
-    "timeYear": 1743,
+    "time": 1753,
+    "timeDay": 2425,
+    "timeWeek": 1746,
+    "timeMonth": 2013,
+    "timeYear": 1753,
     "dailyMinutesDown": {
       "2025-01-21": 22
     }
@@ -112,7 +112,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-14": 77,
+      "2025-03-15": 76,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -149,7 +150,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-14": 77,
+      "2025-03-15": 76,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
