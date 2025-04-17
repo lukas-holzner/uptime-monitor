@@ -45,18 +45,20 @@
     "url": "$WIKI_URL",
     "icon": "https://js.wiki/favicons/favicon-32x32.png",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1043,
-    "timeDay": 1089,
-    "timeWeek": 1194,
-    "timeMonth": 1064,
-    "timeYear": 1043,
-    "dailyMinutesDown": {}
+    "time": 1042,
+    "timeDay": 1017,
+    "timeWeek": 1163,
+    "timeMonth": 1060,
+    "timeYear": 1042,
+    "dailyMinutesDown": {
+      "2025-04-17": 0
+    }
   },
   {
     "name": "Gitea",
@@ -113,7 +115,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-17": 81,
+      "2025-04-17": 568,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -184,7 +186,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-17": 81,
+      "2025-04-17": 568,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
